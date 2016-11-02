@@ -1,0 +1,54 @@
+a:link {
+	color:#00ff00;	
+}
+
+a:visited {
+	color:#ffff00;
+}
+
+body {
+	font-family: "Marker Felt", "Comic Sans MS", fantasy;
+	color: #0d0da5;
+	background-color:#a50d0d;
+	background: url(https://media.tenor.co/images/dce354901936ac334fc015a8e3877f33/raw);
+	background-size: 25% 10%;
+	padding-left: 15px;
+}
+
+h1 {
+	font-size: 2.0em;
+	font-style: italic;
+	text-align: center;
+	text-shadow: 3px 3px #000000;
+}
+
+h2 {
+	font-size: 1.2em;
+	text-shadow: 2px 2px #000000;
+	text-align: left;
+}
+
+table {
+	margin-left: inherit;
+	margin-right: inherit;
+	border-collapse: collapse;
+	
+}
+
+td {
+    padding: 5px;
+    border: solid;
+    border-color: #a50d33;
+    
+}
+tr {
+	border: 3px solid #ffffff;
+	text-align: center;
+	background-color:#a50d0d; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #330da5;
+}
